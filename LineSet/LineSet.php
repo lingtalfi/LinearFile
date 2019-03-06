@@ -1,7 +1,7 @@
 <?php
 
 
-namespace LinearFile\LineSet;
+namespace Ling\LinearFile\LineSet;
 
 
 class LineSet implements LineSetInterface

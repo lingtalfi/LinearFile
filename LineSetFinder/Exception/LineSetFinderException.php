@@ -1,7 +1,7 @@
 <?php
 
 
-namespace LinearFile\LineSetFinder\Exception;
+namespace Ling\LinearFile\LineSetFinder\Exception;
 
 
 class LineSetFinderException extends \Exception

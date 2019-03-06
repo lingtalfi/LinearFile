@@ -2,10 +2,10 @@
 
 
 
-namespace LinearFile\LineSetFinder;
+namespace Ling\LinearFile\LineSetFinder;
 
 
-use LinearFile\LineSet\LineSetInterface;
+use Ling\LinearFile\LineSet\LineSetInterface;
 
 interface LineSetFinderInterface{
 

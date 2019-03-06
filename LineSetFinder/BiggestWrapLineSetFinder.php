@@ -1,12 +1,12 @@
 <?php
 
 
-namespace LinearFile\LineSetFinder;
+namespace Ling\LinearFile\LineSetFinder;
 
 
-use LinearFile\LineSet\LineSet;
-use LinearFile\LineSet\LineSetInterface;
-use LinearFile\LineSetFinder\Exception\LineSetFinderException;
+use Ling\LinearFile\LineSet\LineSet;
+use Ling\LinearFile\LineSet\LineSetInterface;
+use Ling\LinearFile\LineSetFinder\Exception\LineSetFinderException;
 
 /**
  * This lineSetFinder finds line sets which end line might be found INSIDE the line set too, for instance like this:
