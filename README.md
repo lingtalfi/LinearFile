@@ -80,7 +80,11 @@ Or just download it and place it where you want otherwise.
 
 History Log
 ------------------
-    
+
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.0 -- 2017-04-20
 
      - initial commit
